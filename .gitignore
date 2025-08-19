@@ -1,0 +1,7 @@
+.venv       # Virtual environment directory
+
+.env       # Environment variables file
+
+.streamlit/ # Streamlit configuration directory
+
+.DS_Store  # macOS Finder metadata
